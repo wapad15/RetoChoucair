@@ -1,0 +1,16 @@
+# Historia de Usuario: Registrar Nuevo Empleado en OrangeHRM
+
+## Descripción
+
+Yo Como administrador del sistema de OrangeHRM,
+quiero registrar un nuevo empleado en la plataforma
+ OrangeHRM,darle credenciales de acceso al sistema y asi
+ tenga acceso al sistema y de esta manera pueda gestionar su informacion.
+
+## Criterios de Aceptación
+
+- El administrador accede con las credenciales proporcionadas al sistema demo de OrangeHRM.
+- El administrador ingresa a la seccion "PIM".
+- El administrador  agrega un nuevo empleado agregado la informacion requerida del nuevo usuario.
+- Al seleccionar "Create Login Details", se habilitan los campos adicionales del formulario para darle credenciales al empleado.
+- El administrador busca y verificar que el nuevo empleado aparece en la lista de empleados.
